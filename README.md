@@ -8,7 +8,7 @@
 ### :fire: My Stats :
 
 ![Codewars](https://github.r2v.ch/codewars?user=imason5&stroke=grey)
-![Leetcode Stats](https://leetcard.imason5/.cool/JacobLinCool/)
+![Leetcode Stats](https://leetcard.imason5/.cool/imason5/)
 
 
 ---
