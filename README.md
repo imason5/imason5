@@ -1,32 +1,31 @@
-### Hi there 👋
+### My Skills
 
+<table>
+  <tr>
+    <td align="center" valign="top">
 
-### :link: Links
+#### Frontend
 
-[<img align="left" alt="codepen" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />][codepen]
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap,&perline=3)](https://skillicons.dev)
 
-### :fire: My Stats :
+</td>
+<td align="center" valign="top">
 
-![Codewars](https://github.r2v.ch/codewars?user=imason5&stroke=grey)
+#### Backend
 
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,&perline=3)](https://skillicons.dev)
 
+</td>
+<td align="center" valign="top">
 
----
+#### Tools
 
-[codepen]:https://codepen.io/imason5
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,postman,&perline=3)](https://skillicons.dev)
 
+</td>
+  </tr>
+</table>
 
-<!--
-**imason5/imason5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I'm Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=typescript,tailwind,next,&perline=3)](https://skillicons.dev)
