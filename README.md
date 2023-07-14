@@ -2,10 +2,10 @@
 
 #### 🧑‍💻 About me
 
-- 👨‍🎓 Recent Ironhack graduate
+- 👨‍🎓 Recent [Ironhack](https://www.ironhack.com/uk/en/web-development/remote) graduate
 - 💡 Passionate about learning new technologies and building cool things
 - 🌱 Currently learning TypeScript and Next.js
-- 📫 How to reach me: LinkedIn
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/imason5/)
 
 #### 🔧 What I'm using
 
