@@ -1,10 +1,19 @@
-### My Skills
+### Hello there 👋
+
+#### 🧑‍💻 About me
+
+- 👨‍🎓 Recent Ironhack graduate
+- 💡 Passionate about learning new technologies and building cool things
+- 🌱 Currently learning TypeScript and Next.js
+- 📫 How to reach me: LinkedIn
+
+#### 🔧 What I'm using
 
 <table border="0">
   <tr>
     <td align="center" valign="top" style="border: none;">
 
-#### Frontend
+##### Frontend
 
 <div align="center">
 
@@ -14,7 +23,7 @@
 </td>
 <td align="center" valign="top" style="border: none;">
 
-#### Backend
+##### Backend
 
 <div align="center">
 
@@ -24,7 +33,7 @@
 </td>
 <td align="center" valign="top" style="border: none;">
 
-#### Tools
+##### Tools
 
 <div align="center">
 
@@ -35,6 +44,10 @@
   </tr>
 </table>
 
-### What I'm Learning
+#### 💡 What I'm learning
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,tailwind,next,&perline=3)](https://skillicons.dev)
+
+#### 🔥 My stats :
+
+![Codewars](https://github.r2v.ch/codewars?user=imason5&stroke=grey)
