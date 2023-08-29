@@ -51,3 +51,5 @@
 #### 🔥 My stats :
 
 ![Codewars](https://github.r2v.ch/codewars?user=imason5&stroke=grey)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imason5)](https://github.com/imason5/github-readme-stats)
