@@ -50,6 +50,6 @@
 
 #### 🔥 My stats :
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/imason5)
+![LeetCode Stats](https://leetcard.jacoblin.cool/imason5?theme=light&font=Mouse%20Memoirs&ext=activity)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imason5&layout=compact)
