@@ -48,8 +48,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=typescript,tailwind,next,&perline=3)](https://skillicons.dev)
 
-#### 🔥 My stats :
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/imason5?theme=light&font=Mouse%20Memoirs&ext=activity)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imason5&layout=compact)
