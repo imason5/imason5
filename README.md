@@ -50,6 +50,6 @@
 
 #### 🔥 My stats :
 
-![Codewars](https://github.r2v.ch/codewars?user=imason5&stroke=grey)
+![Leetcode Stats](https://leetcard.jacoblin.cool/imason5)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imason5&layout=compact)
